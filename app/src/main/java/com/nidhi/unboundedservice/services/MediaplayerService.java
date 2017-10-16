@@ -18,6 +18,7 @@ import com.nidhi.unboundedservice.R;
 public class MediaplayerService extends Service {
 
     private Context context = MediaplayerService.this;
+    private String name = "nidhish";
 
     private MediaPlayer mediaPlayer;
 
